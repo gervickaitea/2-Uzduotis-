@@ -1,6 +1,7 @@
 # 2-Uzduotis-
 Pirmos uzduoties tesinys
-#1.1V
+# 1.1V
+
 Pirmoje antrosios užduoties versijoje **struct Studentas** buvo pakeista į **class Studentas**
 Studentai šioje versijoje skirstomi pagal 1-ąją strategiją: kiekvienas studentas yra ir pagrindiniame std::vector<Student> Students konteineryje, ir viename iš suskaidytų konteinerių (std::vector<Studentas> Kvaili arba std::vector<Studentas> Protingi.
 **Duomenų skirstymo ir spausdinimo spartos analizė**
